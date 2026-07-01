@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="PortfolioAPI/PortfolioWebAPI.csproj" />
+  <Project Path="PortfolioWebUI/PortfolioWebUI.csproj" />
+</Solution>
